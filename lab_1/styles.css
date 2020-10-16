@@ -1,0 +1,40 @@
+body{
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+    margin: 20px;
+  }
+  
+  #name{
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .nav{
+    margin-top: 10px;
+  }
+  
+  a{
+    color: #69696a;
+    text-decoration: none;
+  }
+  
+  button{
+    background-color: #000;
+    color: #FFF;
+    border-radius: 25px;
+    width:100%;
+    padding: 13px 0 13px 0;
+    margin-top: 10px;
+  }
+  
+  h1{
+    color: #000;
+    margin-top: 40px;
+  }
+  
+  p{
+    border-left: 3px solid #69696a;
+    color: #69696a;
+    padding-left: 15px;
+  }
+  
